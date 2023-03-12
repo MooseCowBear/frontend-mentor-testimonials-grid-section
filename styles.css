@@ -179,11 +179,6 @@ h2 {
   }
   .one {
     grid-column: 1;
-    background-color: var(--accent);
-    background-image: url(./images/bg-pattern-quotation.svg);
-    background-repeat: no-repeat;
-    background-size: 5.3rem;
-    background-position: 80% 0%;
   }
   
   .two {
