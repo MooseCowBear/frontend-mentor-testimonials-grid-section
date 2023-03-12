@@ -24,6 +24,10 @@ Users should be able to:
 - CSS Grid
 - Flexbox
 
+## Helpful resources
+
+- This [CSS Tricks article](https://css-tricks.com/inclusively-hidden/).
+
 ## Author
 
 - GitHub - [MooseCowBear](https://github.com/MooseCowBear)
