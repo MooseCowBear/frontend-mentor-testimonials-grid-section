@@ -5,6 +5,8 @@
   --light-100: hsl(0, 0%, 100%);
   --light-200: hsl(0, 0%, 81%);
   --background: hsl(210, 46%, 95%);
+
+  --light-200-50: hsla(0, 0%, 81%, 0.5);
 }
 
 /* reset */
@@ -164,6 +166,10 @@ h2 {
   color: var(--dark-100);
 }
 
+.one img, .two img, .four img {
+  border: 2px solid var(--light-200-50);
+}
+
 .testimonial {
   opacity: 0.7;
   font-size: 0.8em;
@@ -177,6 +183,7 @@ h2 {
     gap: 2em;
     margin: 2rem;
   }
+  
   .one {
     grid-column: 1;
   }
