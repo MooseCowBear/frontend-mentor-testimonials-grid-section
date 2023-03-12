@@ -200,3 +200,12 @@ h2 {
     background-color: var(--light-100);
   }
 }
+
+.attribution { 
+  color: var(--dark-100);
+  font-size: 11px; 
+  text-align: center; 
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
